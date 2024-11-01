@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,shipping_date,status,total_amount,item_count,customer_name,email,region
+O1001,C123,2023-08-15,2023-08-20,Shipped,250.75,2,Jane Smith,jane.smith@example.com,IL
+O1002,C124,2023-09-10,2023-09-15,Processing,150.5,2,John Doe,john.doe@example.com,NE
+O1003,C125,2024-10-01,2024-10-05,Delivered,300.0,1,Emily Johnson,emily.johnson@example.com,WI
+O1004,C126,2024-11-15,2024-11-20,Shipped,500.25,1,Michael Brown,michael.brown@example.com,TX
+O1005,C127,2024-12-20,2024-12-25,Delivered,120.0,1,Sarah Davis,sarah.davis@example.com,CO
+O1006,C128,2025-01-10,2025-01-15,Processing,400.0,1,David Wilson,david.wilson@example.com,WA
+O1007,C129,2025-03-05,2025-03-10,Shipped,275.5,1,Laura Martinez,laura.martinez@example.com,OR
+O1008,C123,2024-10-28,2024-11-02,Shipped,325.0,2,Jane Smith,jane.smith@example.com,IL
+O1009,C124,2024-11-05,2024-11-10,Delivered,200.0,1,John Doe,john.doe@example.com,NE
+O1010,C125,2024-12-01,2024-12-06,Processing,180.75,1,Emily Johnson,emily.johnson@example.com,WI
