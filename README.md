@@ -81,5 +81,8 @@ Run the PySpark application using:
 spark-submit mongodb_to_delta_lake.py
 ```
 
+## Running the test cases
+Please find the test_cases file attached (test.py)
+
 ## Conclusion
 This project provides a robust pipeline for migrating and transforming data from MongoDB to Delta Lake, leveraging the Medallion Architecture for structured data management.
